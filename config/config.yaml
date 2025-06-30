@@ -1,0 +1,42 @@
+metrics:
+  t2i:
+    fid:
+      fid_inception_model_path: "/dev_share/gdli7/models/ibench/pt_inception-2015-12-05-6726825d.pth"
+      target_withid: "/home/gdli7/IBench/results/fid/with_id"
+      target_withoutid: "/home/gdli7/IBench/results/fid/without_id"
+    aesthetic:
+      laion_aes_model_path: "/home/gdli7/IBench/weights/sa_0_4_vit_l_14_linear.pth"
+      laion_model_path: "/dev_share/gdli7/models/clip/ViT-L-14.pt"
+    imaging_quality:
+      musiq_model_path: "/home/gdli7/IBench/weights/musiq_spaq_ckpt-358bb6af.pth"
+  imageid:
+    facesim:
+      face_detection_model_path: "/dev_share/gdli7/models/insightface"
+    clipeval:
+      clip_model_path: "/dev_share/gdli7/models/clip/ViT-L-14.pt"
+    dinoeval:
+      dino_model_path: "/dev_share/gdli7/models/clip/dinov2_vitb14"
+    dreamsimeval:
+      dreamsim_model_path: "/dev_share/gdli7/models/clip/dinov2_vitb14"
+    posediv:
+      hopenet_model_path: "/home/gdli7/IBench/weights/hopenet_robust_alpha1.pkl"
+      yaw_threshold: 45
+      pitch_threshold: 20
+      roll_threshold: 25
+    exprdiv:
+      expression_model_path: "/home/gdli7/IBench/weights/PrivateTest_model.t7"
+  mllm:
+    gpt_proxy_url: 'http://10.231.139.4:7890' # 7610
+    temperature: 0.02
+    max_tokens: 250
+    top_p: 1
+    frequency_penalty: 0
+    presence_penalty: 0
+
+
+
+enable_timing_stats: True
+save_results: "/home/gdli7/IBench/results/imageid"
+
+
+

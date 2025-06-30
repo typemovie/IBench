@@ -1,0 +1,5 @@
+pytorch-fid
+dreamsim
+tensorflow==2.13
+
+
