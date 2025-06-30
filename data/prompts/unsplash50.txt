@@ -1,0 +1,42 @@
+Category Prompt
+Clothing portrait, a person wearing a spacesuit
+Accessory
+portrait, a person wearing a surgical mask
+portrait, a person wearing an eye mask
+portrait, a person wearing headphones with red hair
+portrait, a person wearing a doctoral cap
+Action portrait, a person cooking in the kitchen
+portrait, a person coding in front of a computer
+Attribute portrait, a young child laughing at the camera
+portrait, an angry person,old
+View portrait, color,side view
+background portrait, with a beautiful purple sunset at the beach in the background
+Style
+portrait, pencil drawing
+portrait,3D Animation, Disney style,cute,popmart blindbox
+portrait, kawaii style, cute, adorable, brightly colored, cheerful, anime
+influence, highly detailed
+portrait,latte art in a cup
+Complex
+portrait, side view, in papercraft style
+portrait, a garden gnome, in papercraft sketch, wearing a glasses
+portrait, Madhubani, wearing a mask
+portrait, Ukiyo-e Painting style, playing the violin
+portrait of green-skinned shrek, wearing lacoste purple sweater
+
+portrait, color, cinematic
+portrait, anime artwork
+portrait, comic art, graphic novel art
+portrait, digital artwork, illustrative, painterly, matte painting
+portrait, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art,dreamy
+portrait, vibrant, professional, sleek, modern, minimalist, graphic, line art, vector graphics
+portrait, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek,
+ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed,intricate, professional
+portrait, energetic brushwork, bold colors, abstract forms, expressive, emotional
+portrait, film noir style, monochrome, high contrast, dramatic shadows, 1940s style, mysterious,cinematic
+portrait, papercut, mixed media, textured paper, overlapping, asymmetrical, abstract, vibrant
+ortrait, paper mache representation, 3D, sculptural, textured, handmade, vibrant, fun
+portrait, vaporwave style, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed
+portrait, watercolor painting, vibrant, beautiful, painterly, detailed, textural, artistic
+portrait, impressionist painting, loose brushwork, vibrant color, light and shadow play
+portrait, expressionist, raw, emotional, dynamic, distortion for emotional effect, vibrant, use of unusual colors, detailed

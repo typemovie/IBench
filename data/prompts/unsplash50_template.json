@@ -1,0 +1,217 @@
+{
+  "datas": [
+    {
+      "num": 0,
+      "prompt": "[portrait,] a {person} wearing a spacesuit",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Clothing"
+      ]
+    },
+    {
+      "num": 1,
+      "prompt": "[portrait,] a {person} wearing a surgical mask",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Accessory"
+      ]
+    },
+    {
+      "num": 2,
+      "prompt": "[portrait,] a {person} wearing an eye mask",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Accessory"
+      ]
+    },
+    {
+      "num": 3,
+      "prompt": "portrait, a person wearing headphones with red hair",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Accessory"
+      ]
+    },
+    {
+      "num": 4,
+      "prompt": "[portrait,] a {person} wearing a doctoral cap",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Accessory"
+      ]
+    },
+    {
+      "num": 5,
+      "prompt": "[portrait,] a {person} cooking in the kitchen",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Action"
+      ]
+    },
+    {
+      "num": 6,
+      "prompt": "[portrait,] a {person} coding in front of a computer",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Action"
+      ]
+    },
+    {
+      "num": 7,
+      "prompt": "[portrait,] a young child laughing at the camera",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Attribute"
+      ]
+    },
+    {
+      "num": 8,
+      "prompt": "[portrait,] an angry {person},old",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Attribute"
+      ]
+    },
+    {
+      "num": 9,
+      "prompt": "[portrait,] color,side view",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "View"
+      ]
+    },
+    {
+      "num": 10,
+      "prompt": "[portrait,] with a beautiful purple sunset at the beach in the background",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "background"
+      ]
+    },
+    {
+      "num": 11,
+      "prompt": "[portrait,] pencil drawing",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Style"
+      ]
+    },
+    {
+      "num": 12,
+      "prompt": "[portrait,]3D Animation, Disney style,cute,popmart blindbox",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Style"
+      ]
+    },
+    {
+      "num": 13,
+      "prompt": "[portrait,] kawaii style, cute, adorable, brightly colored, cheerful, anime",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Style"
+      ]
+    },
+    {
+      "num": 14,
+      "prompt": "influence, highly detailed",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Style"
+      ]
+    },
+    {
+      "num": 15,
+      "prompt": "[portrait,]latte art in a cup",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Style"
+      ]
+    },
+    {
+      "num": 16,
+      "prompt": "[portrait,] side view, in papercraft style",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Complex"
+      ]
+    },
+    {
+      "num": 17,
+      "prompt": "[portrait,] a garden gnome, in papercraft sketch, wearing a glasses",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Complex"
+      ]
+    },
+    {
+      "num": 18,
+      "prompt": "[portrait,] Madhubani, wearing a mask",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Complex"
+      ]
+    },
+    {
+      "num": 19,
+      "prompt": "[portrait,] Ukiyo-e Painting style, playing the violin",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Complex"
+      ]
+    },
+    {
+      "num": 20,
+      "prompt": "portrait of green-skinned shrek, wearing lacoste purple sweater",
+      "prompt_attr": [
+        "short"
+      ],
+      "prompt_style": [
+        "Complex"
+      ]
+    }
+  ],
+  "tags": {
+    "category": "imageid"
+  }
+}

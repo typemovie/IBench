@@ -1,0 +1,644 @@
+{
+  "datas": [
+    {
+      "num": 0,
+      "prompt": "Warm new Ming glasses store, evening street, cozy lighting, inviting sign, storefront display, logo,A warm new Ming glasses store exterior, decorated with cozy elements and an inviting sign, stands prominently on a serene evening street. The storefront features an attractive display showcasing stylish eyewear. The entrance is adorned with the new Ming glasses logo, glowing under the warm lights, drawing attention from passersby. The scene captures a mid-range view at eye level, emphasizing the charming ambiance of the store against the backdrop of the softly lit street.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 1,
+      "prompt": "Character B, excited, running, flying car, backyard, daytime, close-up,A joyful Black woman with short hair, wearing simple home attire, is excitedly running towards a sleek, futuristic flying car that has just landed in a sunny backyard. She stretches her hand out to gently touch the reflective wing of the car, which sparkles under the bright sunlight. The scene captures her enthusiasm and curiosity in a close-up view, emphasizing her delighted expression and the advanced technology of the flying car.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 2,
+      "prompt": "person B, surprised, flying car, backyard, daytime, casual outfit, excitement, medium shot,A young Black woman, dressed in simple, comfortable home attire, steps out of her house into the bright daylight. She gazes in awe at a futuristic flying car gracefully descending in her backyard, close to the landing point. Her expression transforms from astonishment to sheer excitement, capturing the moment perfectly. The scene is set in a modern American neighborhood, with elements of advanced technology like sleek flying vehicles and high-tech devices enhancing the atmosphere. The composition is a medium shot, focusing on her joyful reaction amidst the backdrop of her home.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 3,
+      "prompt": "guitarist, electric guitar, stage, audience, night, leather jacket, black hat, LED lights, close-up, high angle,A Chinese male guitarist passionately playing an electric guitar on a vibrant stage, surrounded by a dimly lit atmosphere. The blurred figures of an enthusiastic audience can be seen in the background, waving their arms in excitement. It's a lively night scene. He is dressed in a stylish leather jacket and a sleek black hat, completely immersed in his music. His electric guitar features dazzling LED light strips that pulse and flash in sync with the rhythm of the performance. The composition is a close-up shot taken from a high angle, capturing the intensity and energy of the moment. The retro 1980s vibe is enhanced by the neon colors and dynamic elements in the scene.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 4,
+      "prompt": "young female singer, microphone, concert stage, retro neon lights, posters, evening, shiny silver jacket, skinny jeans, high heels, curly hair, dynamic atmosphere, mid-shot, eye level,A vibrant young female singer stands confidently in front of a microphone, prepared to captivate the audience with her performance. She is on a lively concert stage adorned with dazzling retro neon lights and colorful posters, evoking a nostalgic ambiance. It is a bustling evening, and she is dressed in a striking shiny silver jacket that glimmers under the lights, complemented by tight-fitting skinny jeans and stylish high heels. Her hair is voluminous and curly, adding to her energetic presence. The stage lights pulse and flicker in sync with the upbeat music, enhancing the dynamic atmosphere of the scene. The composition is framed as a mid-shot from an eye-level perspective, inviting viewers into the exhilarating moment of the performance.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 5,
+      "prompt": "zoo entrance, excited character, busy city, morning, colorful sign, ticket, sunlight, lively atmosphere, full view,At the colorful entrance of a bustling city zoo, a young Asian man with short hair, dressed in casual, lightweight clothing, eagerly steps through the vibrant gates, a ticket in hand. The background showcases a lively scene filled with visitors, all under the bright morning sunlight that creates a cheerful atmosphere. The entrance is adorned with a striking, colorful sign, enhancing the excitement of the zoo experience. The viewpoint is a wide-angle shot, capturing the energy and enthusiasm of the moment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 6,
+      "prompt": "young woman, self-service check-in system, modern office, morning, professional attire, tablet, busy staff, large screen, real-time data,A focused young Chinese woman with long hair, dressed in professional attire, is operating a sleek tablet at a self-service check-in kiosk. The scene is set in a contemporary office filled with busy staff moving around her. It's 9 AM in the morning, with natural light streaming through large windows. In the background, a large screen displays real-time data, adding a high-tech feel to the atmosphere. The composition is a medium shot at eye level, capturing the dynamic environment and the woman's concentration on her task.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 7,
+      "prompt": "owner, cat, interaction, indoor, living room, sunset, warm colors, intimacy, Asian woman, gray-white cat,An Asian woman with long hair, wearing modern casual clothing, joyfully interacts with a gray-white cat, which is comfortably curled up in her arms. The scene is set in a softly lit indoor living room, bathed in warm, golden hues from the sunset outside. The camera captures their intimate moment from the side, highlighting the owner's beaming smile and the cat's relaxed demeanor. The composition transitions from a mid-shot to a close-up, emphasizing the affectionate bond between them. The overall atmosphere is warm and inviting, enhancing the emotional connection in this serene setting.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 8,
+      "prompt": "animated character, fitting room, mirror, observing, trying on clothes, soft lighting, close-up shot, expressions,In a cozy fitting room, an adorable animated character with large, expressive eyes and a stylish hairstyle is trying on new clothes. The character is observing their reflection in a large mirror, striking various poses to see how the outfit looks. The soft lighting casts a warm glow, creating a comfortable atmosphere. This close-up shot focuses on the character's facial expressions and movements, capturing the joy and excitement of trying on something new at noon.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 9,
+      "prompt": "animated character, cashier interaction, shopping process, afternoon, friendly cashier, crowd of customers,A cheerful animated character with large, expressive eyes and a stylish outfit, handing selected items to a friendly cashier at a brightly lit checkout counter. The character is smiling while making a payment, and the cashier is engaging in friendly conversation. In the background, a diverse crowd of customers, including Asian individuals, patiently waits in line. The scene takes place in the afternoon, with warm sunlight streaming through the store's windows, creating a lively and inviting atmosphere.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 10,
+      "prompt": "anime character, fashionable, city street, unique storefront, neon lights, daytime, waving, smiling, logo t-shirt, jeans, sneakers, mid-shot, eye-level,A stylish and adorable anime character, a Chinese girl with big expressive eyes and a trendy hairstyle, stands in front of a uniquely decorated storefront, cheerfully waving and smiling at the viewer. The bustling city street behind her is alive with activity, filled with hurried pedestrians passing by. Bright neon lights illuminate the scene, creating a vibrant atmosphere. It's a sunny day, and she is dressed in a colorful logo t-shirt, fitted jeans, and comfortable sneakers. The composition is a mid-shot from an eye-level perspective, capturing the lively energy of the urban environment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 11,
+      "prompt": "Li Bai, courtyard, well railing, poetry, candlelight, night, warm light, glowing words, close-up, eye level,A young Chinese poet, Li Bai, dressed in a soft moon-white robe, stands in a serene traditional courtyard at night, his face warmly illuminated by the gentle flicker of candlelight. He gazes thoughtfully at the well railing, deeply immersed in reciting poetic verses. Each word he utters releases a faint glow that softly drifts into the air. The ancient courtyard is adorned with lush green pine trees and a bright, shining moon above, adding to the tranquil and poetic atmosphere. The scene is captured in a close-up, eye-level perspective, evoking a sense of intimacy and reflection.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 12,
+      "prompt": "Li Bai, courtyard, moonlight, ancient, night, pondering, pine trees, shadows, wide angle,A young Chinese poet, Li Bai, dressed in a flowing moon-white robe and adorned with a jade crown, strolls thoughtfully through an elegant ancient courtyard at night. The moonlight cascades like silver silk, illuminating the intricately carved window frames and the smooth stone pathway. Majestic pine trees gently sway nearby, their shadows casting beautiful patterns on the courtyard floor. The scene is captured in a wide-angle view, offering a serene and contemplative atmosphere, reminiscent of the Tang Dynasty, with soft, muted colors and a slightly grainy texture for an antique feel.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 13,
+      "prompt": "young man, park bench, Shanghai, evening, dark coat, jeans, lost expression, skyline, wilted trees,A young Chinese man wearing a dark coat and jeans, sitting alone on a weathered park bench in a quiet park in Shanghai during the evening. He has slightly disheveled hair and a lost expression in his eyes, reflecting deep thoughts. The background features a few wilted trees and a distant city skyline, creating a serene yet melancholic atmosphere. The scene is captured in a mid-range view, at eye level, emphasizing his solitude and contemplation as the soft evening light casts gentle shadows around him.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 14,
+      "prompt": "delivery rider, accident, wet ground, dim lighting, late night, motorcycle, low angle, close-up,A young Chinese delivery rider named Xiao Li, wearing a bright delivery uniform, is sprawled on a slippery road, his face contorted in pain. The scene is set at the intersection of Xinghe Street, shrouded in dim lighting typical of a late-night urban setting. A motorcycle lies overturned beside him, its headlights flickering ominously. The viewpoint is a close-up, captured from a low angle, emphasizing the distressing moment against the dark, wet pavement. The surrounding environment is shadowy, enhancing the somber mood of the accident.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 15,
+      "prompt": "Wu, apartment, window, city night, tension, computer, monitoring, mid-shot, side view,In a dimly lit eighth-floor apartment, a Chinese man named Wu, slender and dressed in clean but ordinary casual clothes, anxiously peers through a window. His face shows clear signs of tension and anxiety as he observes the bustling city street below at night. The background features a dark interior of the apartment, while outside, the vibrant lights of the city illuminate the scene. A laptop displaying live monitoring footage adds to the sense of urgency. The shot is a mid-range, side view, capturing both Wu's worried expression and the stark contrast of the lively city against the somber room.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 16,
+      "prompt": "student, close-up, complex expression, blurred flower tree, classroom lights, evening, rainy, eyes focused, furrowed brow, downturned mouth, rain on face, reflected lights, eye level shot,A close-up of a Chinese student's face, showcasing a complex and contemplative expression. The student’s eyes are intently focused ahead, with a slight furrow in their brow and a subtly downturned mouth. In the background, a softly blurred flower tree and warm classroom lights create a serene yet melancholic atmosphere. It is a rainy evening, and droplets of rain cascade down the student’s cheek, while their eyes reflect the faint, distant glow of lights, enhancing the emotional depth of the scene. The shot is taken at eye level, drawing the viewer into the intimate moment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 17,
+      "prompt": "female face close-up, starry sky, night, window, moonlight, reflection, tears, contemplation, sorrow,A close-up of a Chinese woman's face, gazing thoughtfully towards a vast starry sky. The background reveals a window framing the night sky, filled with twinkling stars and soft moonlight. It's the deep of night, and her face captures the faint, shimmering reflection of the starlight outside, enhancing the emotional depth of the scene. Her eyes are glistening, hinting at unshed tears, while her expression conveys a poignant mix of contemplation and sorrow. The shot is taken from a slightly low angle, emphasizing her introspective gaze.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 18,
+      "prompt": "student, classroom, flower tree, rain, petals, school, evening, wet, complex expression,A Chinese student in a wet school uniform, sneaking out of a classroom and standing beneath a flowering tree. The scene is set outside a school classroom during a rainy evening, with scattered flower petals and dripping raindrops on the ground. The classroom lights glow softly through the window, casting a warm light on the wet surface. The student's hair is damp from the rain, and their face is adorned with glistening droplets, reflecting a complex expression. The petals are strewn across the ground, and raindrops fall from the leaves, creating gentle ripples. The composition is a mid-range shot at eye level.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 19,
+      "prompt": "young man, yellow flowers, nostalgic, park, children, swinging, daytime, casual outfit, messy hair, deep gaze, mid-shot, eye level,A young Chinese man stands thoughtfully in front of a vibrant patch of blooming yellow flowers, his deep gaze reflecting a sense of nostalgia. The scene is set in a bright, sunny park where the cheerful laughter of children playing on swings can be faintly seen in the blurred background. It is a clear daytime, and he is dressed in a relaxed casual outfit, his hair slightly tousled by the gentle breeze. The composition captures him in a mid-shot from an eye-level perspective, inviting viewers to share in his reflective moment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 20,
+      "prompt": "man walking, Chinese city, night street, skyscrapers, neon lights, cyberpunk,A Chinese man in a sleek black leather jacket with a small holographic display walks purposefully from left to right. The scene is set on a bustling night street in a vibrant Chinese city, surrounded by towering skyscrapers and flickering neon advertisements. The dim light casts a soft glow on his focused expression, highlighting the futuristic atmosphere. The billboards around him showcase various high-tech products and virtual reality games, enhancing the cyberpunk vibe of the urban landscape. The viewpoint is a wide-angle, capturing the entire scene at eye level, immersing the viewer in this dynamic nighttime setting.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 21,
+      "prompt": "young female student, classroom, writing notes, focused expression, thick books, electronic dictionary, old locust tree, mid-shot, side angle",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 22,
+      "prompt": ",A young Chinese female student with short hair, wearing a simple school uniform, sits at a wooden desk in a bustling classroom, intently writing notes on a piece of paper with a focused and serious expression. Her desk is cluttered with several thick textbooks and a small electronic dictionary. In the background, other students are busy with their studies. A large old locust tree can be seen through the window, adding a touch of nature to the scene. The composition is a mid-shot taken from a side angle, capturing the student's concentration amidst the lively classroom atmosphere. The setting is illuminated by soft natural light, creating a warm and studious mood.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 23,
+      "prompt": "classroom, middle-aged teacher, old computer, 1980s, Mao Zedong, Zhou Enlai, sunlight, wooden desks, students, AI education software,Inside a vintage 1980s classroom, a middle-aged Chinese teacher stands confidently, dressed in a slightly worn dark Zhongshan suit, his round glasses reflecting the glow of an old computer screen. The classroom is adorned with portraits of Mao Zedong and Zhou Enlai, creating a historical atmosphere. Sunlight pours through the windows, casting warm rays that brighten the rustic wooden desks arranged neatly around the room. Students, captivated and focused, gaze intently at their teacher, while the computer's screen showcases a vibrant AI education software interface, blending tradition with modern technology. The scene is captured in a wide-angle view from the back of the classroom, emphasizing the teacher's role in guiding the eager minds of the future.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 24,
+      "prompt": "young man, park bench, beverage, outdoor park, sunlight, morning, denim jacket, orange drink, dappled light,A young Chinese man in a denim jacket, relaxed on a park bench, holding a transparent glass bottle filled with orange drink. The scene is set in a vibrant outdoor park during the early morning, with sunlight filtering through the leaves, casting beautiful dappled light on his face and body. The grass is lush and green, creating a serene atmosphere. The composition is a mid-shot at eye level, capturing the peaceful moment in a cheerful, warm tone reminiscent of 1980s retro style.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 25,
+      "prompt": "smiling protagonist, smartphone, Guangzhou, morning sunlight, warm expression, grateful eyes, starry night photo, close-up, high angle,A smiling Chinese person with a warm and determined expression, holding a smartphone to record a beautiful moment. The first rays of sunlight illuminate their face, creating a soft glow. Their eyes sparkle with gratitude as they look at the phone screen, which displays a recently captured photo of a starry night sky. The scene is set in the early morning in Guangzhou, with a close-up view transitioning from eye level to a high angle, emphasizing the protagonist's joyful moment. The lighting is bright and cheerful, enhancing the warmth of the scene.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 26,
+      "prompt": "lonely figure, empty street, Guangzhou, night, long shadows, fallen leaves, wind,A solitary Chinese person dressed in casual, lightweight clothing, walking slowly with their head slightly bowed on a deserted street in Guangzhou during the deep night. The streetlights cast long shadows, enhancing the feeling of loneliness. Fallen leaves are gently stirred by the wind, adding to the desolate ambiance. The scene is captured in a close-up, low-angle view, emphasizing the figure's isolation against the backdrop of a hazy urban nightscape, with warm light contrasts creating a poignant mood.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 27,
+      "prompt": "Xiao Li, home office, browsing computer, bookshelves, soft lighting, night, green energy, wind power, close-up, high angle,A young Chinese man named Xiao Li is seated in a cozy home office, intently browsing through computer materials. The background reveals a well-organized bookshelf brimming with colorful books and neatly stacked documents. It is nighttime, and the atmosphere is tranquil, enhanced by soft, warm lighting that casts gentle shadows around the room. The computer screen illuminates his focused expression, displaying vibrant graphics and text about green energy, specifically highlighting the phrase \"large wind power photovoltaic base.\" The viewpoint is a close-up, captured from a high angle, emphasizing the details of Xiao Li’s engagement with the screen and the inviting ambiance of his study.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 28,
+      "prompt": "Li, worried expression, city street, busy urban environment, high-rise buildings, vehicles, daytime, casual practical clothing, air quality monitor, pollution data, medium shot, eye level,A young Chinese man named Li stands anxiously on a bustling city street, his worried expression reflecting concern for the environment. He is dressed in casual yet practical attire, holding a high-tech air quality monitor that shows alarming pollution data on its screen. The backdrop is filled with towering high-rise buildings and a stream of vehicles, creating a vibrant urban atmosphere during the day. The scene is captured in a medium shot from an eye-level perspective, emphasizing both Li's concern and the busy city life around him.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 29,
+      "prompt": "student, desk, books, tablet, modern study room, evening, holographic projection, relaxed smile,A Chinese student with black hair and glasses, dressed in a simple t-shirt and jeans, sits at a modern wooden desk cluttered with books and notes, appearing tired yet focused. The background features a contemporary study room illuminated by a desk lamp, with a study plan hanging on the wall. It's evening, casting a warm glow. The tablet displays a holographic projection of the answers, and the student’s face lights up with a relaxed smile, reflecting a sense of relief and understanding. The scene is captured in a mid-shot from a slightly high angle, creating a thoughtful and engaging atmosphere.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 30,
+      "prompt": "young man, mountain top, sunrise, open arms, athletic gear, satisfied smile, first light, panoramic view, low angle,A cheerful young Chinese man stands triumphantly on a mountain top, arms outstretched, embracing the dawn as the first rays of sunlight illuminate his face, symbolizing a new beginning. He wears comfortable, lightweight athletic gear, exuding a sense of adventure and fulfillment. The breathtaking backdrop showcases a sprawling range of mountains, with the sky shifting from deep indigo to soft pastel hues, creating a serene and inspiring atmosphere. The scene is captured in a panoramic view from a low angle, emphasizing the grandeur of the landscape and the young man's joyful expression.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 31,
+      "prompt": "man, computer, office, night, focused expression, black medium-length hair, dark blue shirt, black frame glasses, screen light reflection, close-up, high angle,A Chinese man in his thirties, deeply focused while typing on a sleek computer in a modern office cubicle. He has medium-length black hair and wears a dark blue shirt along with stylish black frame glasses. The screen's bluish light reflects off his glasses, creating a striking visual effect. The scene is set at night, with dim lighting that emphasizes the glow from the computer. The viewpoint is a close-up, slightly from above, capturing the intensity of his concentration and the high-tech environment around him.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 32,
+      "prompt": "female protagonist, crowd, smiling, waving, golden qipao, high bun, red hairpin, elegant movement, stage background, close-up, eye-level,A Chinese female protagonist gracefully walks out of a vibrant crowd, smiling warmly and waving. She is dressed in a stunning golden traditional qipao, her hair elegantly styled in a high bun, accentuated with a striking red hairpin. The backdrop features a dazzling stage, illuminated by focused lights that highlight her elegant movement. The composition is a close-up shot at eye-level, capturing the essence of her joyful demeanor amidst the festive atmosphere.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 33,
+      "prompt": "Xiao Ming, smartphone map, Fenghuang Ancient Town, ancient buildings, bustling market, daytime, casual outfit, small backpack, smiling, bright screen, mid-shot, eye-level,A young Chinese man named Xiao Ming, dressed in casual attire and carrying a small backpack, is looking up from his smartphone map with an eager smile on his face. He stands at the entrance of Fenghuang Ancient Town, surrounded by beautifully preserved ancient buildings and a lively market scene. The bright daylight illuminates the vibrant atmosphere, and his smartphone screen shows a map of Fenghuang with a blinking cursor indicating his current location. The composition is a mid-shot from eye-level, capturing the essence of adventure and exploration.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 34,
+      "prompt": "female teacher, classroom, Chinese high school, blackboard, morning light, slogan, chalk,A Chinese female teacher, wearing glasses and holding chalk, confidently steps into a typical high school classroom at 8 AM. She stands at the center of the podium, her finger tapping on the blackboard filled with clear, bold writings about college applications and the college entrance examination. The walls are adorned with a motivational slogan: \"College Entrance Examination World, Comprehensive and Efficient.\" Bright morning sunlight pours in through the windows, casting a warm glow that brightens the entire classroom. The perspective is a wide-angle view at eye level, focusing solely on the teacher as she engages her students in a positive and encouraging atmosphere.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 35,
+      "prompt": "teacher, classroom, Chinese high school, morning, blackboard, sunlight, students,A middle-aged Chinese teacher, wearing glasses, stands confidently at the center of a typical Chinese high school classroom, hand raised as he knocks on the blackboard. The blackboard is filled with clear, bold words about college applications and exams. Sunlight streams through the windows, illuminating the room, creating a warm and inviting atmosphere. In the background, a motivational slogan hangs on the wall: \"Gaokao World, Comprehensive and Efficient.\" The classroom is filled with student desks, some occupied by anxious high school students in uniforms, all focused on the teacher. The scene is set in the morning at 8 AM, captured in a wide-angle view at eye level.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 36,
+      "prompt": "little girl, grateful smile, people, close-up, friendly atmosphere,A close-up of a little Chinese girl with a radiant smile, her eyes shaped like crescent moons, expressing gratitude after being helped. Surrounding her are smiling faces of people who appear relaxed and happy, sharing in her joy. The scene captures a warm, friendly atmosphere, with the girl nodding in thanks to her helpers, who return her gesture with kind smiles. The moment is filled with positivity and connection, emphasizing the power of kindness and support.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 37,
+      "prompt": "man, park bench, smartphone, peaceful park, trees, flowers, lake, afternoon, sunlight, gray t-shirt, casual pants, lonely expression,A Chinese man in a simple gray t-shirt and dark casual pants, sitting alone on a park bench in a peaceful park. He holds a smartphone, his expression appearing lost and lonely as he stares blankly at the screen. Surrounding him are lush green trees, colorful flowers, and a distant lake, with sunlight filtering through the leaves, creating dappled patterns on the bench and the man. The scene captures the tranquility of the afternoon, yet he seems oblivious to the beauty around him. The viewpoint is a medium shot at eye level, emphasizing his solitude amidst the vibrant environment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 38,
+      "prompt": "Xiao Ming, Fenghuang Ancient Town, smartphone map, ancient architecture, food stalls, daytime, smiling, bustling crowd,A young Chinese man named Xiao Ming, with short hair and wearing casual clothing, stands in front of the entrance to Fenghuang Ancient Town, beaming with joy as he raises his smartphone to take a photo. The smartphone's map displays a small flag indicating he has arrived at his destination. Surrounding him are beautiful ancient buildings with intricate architecture and a vibrant market bustling with people. The air is filled with the enticing aroma of delicious street food. The scene is set during the daytime, captured from a wide-angle view transitioning to a close-up, showcasing the lively atmosphere and colorful details of the food stalls and crowd. Bright natural light illuminates the cheerful scene, enhancing the festive mood.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 39,
+      "prompt": "young man, smartphone, satisfied smile, sofa, daytime, transaction success, mid-shot, eye-level,A young Chinese man with short hair, dressed in casual attire, is sitting comfortably on a cozy sofa, holding a sleek smartphone in his hands. He is focused on the screen, which displays a successful transaction message, and a broad smile spreads across his face, reflecting his satisfaction and excitement. The scene is set on a bright, sunny day, with natural light illuminating the room, creating a cheerful and inviting atmosphere. The camera captures a mid-shot from an eye-level angle, emphasizing the man's expression and the smartphone's screen.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 40,
+      "prompt": "Mr. Li, reading, home, cozy environment, night, relaxed, soft lighting, bookshelf, tranquility, close-up, low angle,A Chinese man, Mr. Li, is sitting comfortably in his cozy home, reading a book with a gentle smile on his face. It is deep into the night, and he is dressed in soft loungewear, exuding a relaxed demeanor. The room is softly illuminated, casting a warm glow over the space, while a well-stocked bookshelf filled with various books adds to the serene ambiance. The composition is a close-up shot taken from a low angle, emphasizing his contentment and the inviting atmosphere of his home.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 41,
+      "prompt": "Li Gong, technology exhibition, high-tech equipment, audience, modern indoor setting, morning,A Chinese man named Li Gong, dressed in typical 1980s work attire, stands confidently at a podium during a modern technology exhibition. Behind him, a display of high-tech surveying tools glimmers with vibrant lights. The scene is set indoors, capturing the essence of a contemporary exhibition space filled with sleek designs and innovation. It is the following morning, and the audience, a diverse group of individuals, is captivated, their eyes focused on Li Gong as he presents. The lighting is bright and inviting, enhancing the atmosphere of excitement and anticipation in the room.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 42,
+      "prompt": "Li, engineer, office, surveying equipment, daytime, data analysis, coffee, mid-shot, eye-level,A Chinese engineer named Li, dressed in typical 1980s work attire, intently examines a computer screen filled with intricate data analysis graphs. The setting is a surveying office brimming with an array of surveying tools and detailed maps, illuminated by natural daylight. A cold cup of coffee sits nearby, hinting at his long hours of dedication. The scene is framed in a mid-shot at eye-level, showcasing the focused atmosphere of the workspace.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 43,
+      "prompt": "library, books, morning, sunlight, Chinese young man, focused, bookmark,In a serene city library during the early morning, a focused Chinese young man named Xiao Sha is dressed in a simple t-shirt and jeans, intently reading a book. Sunlight streams through the large windows, casting warm light onto the wooden table, making the words on the falling bookmark stand out vividly. The shelves are overflowing with colorful books, creating a cozy and inviting atmosphere. The scene is captured in a medium shot, at eye level, emphasizing the tranquility of the moment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 44,
+      "prompt": "female teacher, office chair, working on computer, modern office, clock, motivational posters, 11 AM, formal attire, focused expression, data analysis charts, close-up, eye-level angle,A dedicated Chinese female teacher is seated on a stylish office chair, deeply focused on her computer screen in a contemporary office environment. The walls are adorned with a large clock and vibrant motivational posters, creating an inspiring atmosphere. It's 11 AM, and she is dressed in a smart, formal outfit that reflects her professionalism. Her expression is energetic yet resolute, embodying her commitment to her work. The computer screen prominently displays intricate data analysis charts related to college entrance exams, emphasizing her expertise and involvement in her students' success. The composition captures a close-up view from an eye-level angle, highlighting her concentration and the modern workspace around her.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 45,
+      "prompt": "teacher, classroom, students, morning, textbook, chalk, blackboard, sunlight,A dedicated Chinese teacher strides confidently to the podium in a bustling high school classroom filled with attentive students, all eyes fixed on her. It's a bright morning at 8 AM. The teacher wears a smart professional outfit, clutching a textbook in one hand and a piece of chalk in the other, her expression a mix of seriousness and encouragement. Behind her, the blackboard boldly proclaims \"College Entrance Exam Universe, Comprehensive and Efficient,\" while warm sunlight filters through the window, casting a radiant glow on her figure. The composition captures a medium shot from a high angle, emphasizing the dynamic interaction between the teacher and her eager students.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 46,
+      "prompt": "little boy, sofa, modern living room, toys, daytime, excitement, bright colors,A curious little boy, around 7 years old, with sparkling eyes and an expression full of excitement, is sneakily hiding behind a cozy sofa. The modern living room is decorated warmly, with sunlight streaming in during the day, illuminating scattered colorful toys on the floor. The boy wears a cartoon-patterned t-shirt and blue shorts, enhancing the cheerful atmosphere of the scene.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 47,
+      "prompt": "Aili, female painter, riverbank, natural scenery, sunset, close-up, focused expression,Aili, a Chinese female painter with an Asian appearance, is captured in a close-up view at the riverbank, where she occasionally gazes up to appreciate the intricate details of the natural scenery and then focuses intently on her canvas, applying vibrant colors with passion. The background showcases the serene beauty of the river, with crystal-clear water gently flowing and lush trees standing tall in the distance, all bathed in the soft, warm light of the evening sunset. Aili wears a loose, flowing dress and a wide-brimmed hat, her face adorned with a satisfied smile that radiates confidence and joy. The sunset's golden rays cast a warm glow on her features and the canvas, enhancing the tranquil and inspiring atmosphere of this picturesque moment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 48,
+      "prompt": "Eli, female painter, riverbank, afternoon, nature, colorful wildflowers, clear river, breezy, canvas, wide-brimmed hat,A Chinese female painter named Eli, wearing a loose long dress and a wide-brimmed hat, sits by a serene riverbank in the afternoon. The soft breeze caresses her long hair, while colorful wildflowers bloom around her. The clear river sparkles in the sunlight, creating gentle ripples. Eli's brush glides smoothly across the canvas, depicting a vibrant scene that reflects her perception of the beautiful nature surrounding her. The composition captures a wide-angle view, looking up at her as she creates art, with the natural landscape framing the moment beautifully.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 49,
+      "prompt": "Chinese innovative system, high-tech office, Asian female operator, blue and white interface, morning work hours,In a modern high-tech office, multiple monitors showcase a Chinese innovative system interface, designed with a clean and minimalist aesthetic in shades of blue and white. An Asian female operator, dressed in smart professional attire, is focused and diligently interacting with the system. The time is morning, and the atmosphere is filled with a sense of productivity. The interface elements exhibit subtle dynamic effects, enhancing the visual appeal of the scene. The viewpoint is slightly elevated, providing a mid-range perspective of the operator and the vibrant, tech-savvy environment around her.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 50,
+      "prompt": "young woman, living room, dancing, small space, disappointment, Chinese apartment, daytime, sportswear, ponytail, wide angle,A young Chinese woman in simple sportswear, with her hair tied in a ponytail, trying to dance in her cozy, cluttered living room. The space is small, and her movements are restricted, reflecting her frustration. The room is filled with basic furniture typical of a Chinese apartment, illuminated by soft daylight filtering through the window. The scene is captured from a wide-angle perspective, emphasizing the limited space around her.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 51,
+      "prompt": "elderly man, modern city street, busy urban environment, old-fashioned trench coat, silver hair, cane, smiling face, buildings changing to vintage style, daytime, mid-shot, eye level,An elderly Chinese man with silver hair, dressed in an old-fashioned trench coat, walks slowly along a busy urban street filled with towering skyscrapers and modern shops. He leans on a cane, a gentle smile gracing his face. As he strolls, the surrounding buildings gradually transform into a vintage style, reminiscent of the 1950s. The scene is set during the day, captured in a mid-shot from an eye-level perspective, highlighting the contrast between the modern city and the nostalgic atmosphere. The mood is warm and reflective, with a hint of nostalgia in the air.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 52,
+      "prompt": "parent, walking, desk, modern minimalist room, daytime, casual home clothes, tired expression, learning supplies, books, city skyline, mid-shot, eye level,A Chinese parent, dressed in simple, comfortable home attire, walks towards a sleek wooden desk in a modern minimalist room filled with learning supplies and scattered books. The parent’s face shows signs of fatigue and worry. Sunlight streams through the window, illuminating the room, while a view of tall city skyscrapers is visible outside. The scene is captured in a mid-shot at eye level, creating a relatable and intimate atmosphere.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 53,
+      "prompt": "Li, standing, Anyang University, thinking, campus, daytime, bright sunlight, athletic wear, serious expression, dappled light, mid-shot, eye level,A Chinese male student named Li stands thoughtfully in front of the iconic building of Anyang University. He is dressed in casual athletic wear, with a serious expression on his face. The scene is set on the university campus during a bright, sunny day, with sunlight filtering through the leaves, casting dappled shadows on the ground. The composition is a mid-shot at eye level, capturing both Li's contemplative mood and the vibrant campus atmosphere around him.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 54,
+      "prompt": "Li Yue, cultural exhibition hall, ethnic costumes, evening, focus, lighting, historical atmosphere,A Chinese woman named Li Yue, with long hair and bright, expressive eyes, is attentively observing various ethnic costumes displayed in a spacious cultural exhibition hall. She is dressed in a simple yet elegant outfit, embodying a modern style with occasional ethnic elements. The exhibition hall is filled with rich and vibrant ethnic costumes and related artifacts, illuminated by soft, warm lighting that highlights each piece, creating a profound sense of historical depth. The scene captures a panoramic view that gradually zooms in on Li Yue's focused expression, reflecting her admiration for the intricate details of the exhibits. The overall atmosphere is enhanced by high-saturation colors and a smooth camera movement, blending modern fashion with traditional elements.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 55,
+      "prompt": "man, tunnel exit, wide plain, city skyline, night, warm light, smiling, back view, panoramic,A Chinese man with short hair, dressed in modern casual clothing, steps out of a dark tunnel into the night. He pauses, taking a deep breath, and smiles as he gazes at the expansive plain before him, illuminated by the warm glow of lights from the distant city skyline. The contrast between the warm light at the tunnel's exit and the cool night creates a striking visual. The scene is captured in a panoramic view from behind the man, showcasing the beauty of the open landscape and the twinkling city lights in the background.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 56,
+      "prompt": "man, hidden tunnel entrance, mountain foot, advanced recognition device, dusk, blue glow, excitement,At the foot of a majestic mountain, a Chinese man stands before a concealed tunnel entrance, his short hair catching the fading light of dusk. The entrance is equipped with sleek, advanced recognition devices, casting a mysterious blue glow that illuminates his face. His expression transforms from astonishment to exhilaration as he curiously examines the high-tech equipment. The atmosphere is charged with anticipation, and the fading sunlight adds a warm hue to the scene, enhancing the sense of discovery and adventure.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 57,
+      "prompt": "Asian man, mountain, sunset, outdoor gear, forest, clouds, perseverance,An Asian man dressed in modern outdoor gear, beads of sweat on his determined face, stands at the base of a steep mountain, looking up towards the summit. The backdrop features a towering, rugged peak surrounded by dense, lush forest, with a few wispy clouds scattered across the sky. The scene is illuminated by the warm hues of the sunset, casting a dramatic glow on the distant mountain, enhancing its majestic and daunting appearance. The composition is a wide-angle view, capturing the vastness of the landscape and emphasizing the man's resolve against the stunning natural backdrop.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 58,
+      "prompt": "Xiao Ya, studio, painting, angel wings, night, soft lighting, completed artworks, sketch, mid-shot, high angle,A focused Chinese woman named Xiao Ya, with long hair and a gentle, melancholic expression, is deeply engrossed in painting angel wings on a canvas in her cozy studio. The room is cluttered with an array of painting tools and completed artworks, creating an inspiring artistic environment. The warm, soft lighting casts a soothing glow over the scene, enhancing the night ambiance. On the walls, several finished paintings are displayed, including an unfinished sketch of angel wings, adding depth to the creative atmosphere. The composition is captured in a mid-shot from a high angle, providing a unique perspective of Xiao Ya's artistic process.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 59,
+      "prompt": "Xiaoya, autumn lake, sunset, deep blue coat, flowing hair, fallen leaves,A Chinese woman named Xiaoya stands gracefully by an autumn lake, her silhouette framed against the vibrant sunset sky. She wears a deep blue coat that contrasts beautifully with the warm hues of the evening light. Her long hair dances gently in the breeze, adding a sense of movement to the serene scene. The lake's surface glistens with reflections of the setting sun, while colorful fallen leaves drift lazily on the water. The tranquil atmosphere captures the essence of a peaceful autumn evening, inviting viewers to share in this moment of quiet contemplation.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 60,
+      "prompt": "host, Los Angeles, city view, sunset, smiling, casual clothing, close-up, aerial view,A young Asian male host, dressed in casual attire, stands on a high ridge with a breathtaking view of Los Angeles. He smiles warmly, engaging with the audience. The background features the sprawling cityscape, with distant hills and the urban skyline bathed in the soft glow of sunset. The sky transitions from vibrant orange to deep blue, creating a stunning gradient. The host's face is illuminated by the golden rays of the setting sun, adding a cheerful ambiance to the scene. The composition is a close-up, capturing the host's natural expression and the beautiful backdrop.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 61,
+      "prompt": "little boy, leaving dining table, running to living room, vintage color TV, 1980s toys, evening, messy hair, unbuttoned shirt, animated cartoon, panoramic view, slight overhead angle,A lively little Chinese boy with messy hair and an unbuttoned shirt joyfully leaves the dining table, running towards the cozy living room to play. In the background, a vintage color TV from the 1980s flickers with bright colors, displaying a beloved animated cartoon, while nostalgic toys from the era are scattered across the floor. The warm glow of the evening light bathes the scene, creating a cheerful atmosphere. The composition is framed in a panoramic view from a slight overhead angle, capturing the essence of childhood joy and the charm of a bygone era.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 62,
+      "prompt": "middle-aged man, smartphone, modern city, news, busy street, blue jeans, gray t-shirt, daytime,A middle-aged Chinese man stands in a bustling city square in front of towering skyscrapers, holding a smartphone with a news article about the cancellation of shared area fees displayed on the screen. He is dressed in blue jeans and a slightly wrinkled gray t-shirt, his hair appearing slightly tousled. The scene captures the vibrant atmosphere of a modern urban environment during the day, with a busy street filled with hurried pedestrians, some of whom pause to glance at their own phones. The viewpoint is a mid-shot at eye level, showcasing the man amidst the lively backdrop of the city. The lighting is bright and natural, creating a dynamic and engaging atmosphere.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 63,
+      "prompt": "sunset, campus panorama, old professor, Sichuan International Studies University, golden light, tranquility, long focal length,A breathtaking panoramic view of Sichuan International Studies University during sunset, illuminated by warm golden light. An elderly Chinese professor with white hair stands on a hill, dressed in classic scholarly attire, gazing thoughtfully into the distance. The campus, filled with lush greenery and elegant architecture, exudes a tranquil ambiance as the day's activities wind down and the scene becomes peaceful. The composition captures the moment with a long focal length, transitioning from a mid-range view to an expansive panorama, emphasizing the beauty of the campus under the fading light.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 64,
+      "prompt": "Asian man, shocked expression, village square, daytime, medium shot, low angle,An Asian man with a worn but relatively tidy outfit, his face filled with shock and concern, emerges from a murmuring crowd in an outdoor village square. The atmosphere is tense, with people quietly conversing around him. His gaze is intently fixed on a scene in the distance, capturing a moment of realization. The shot is framed in a medium view from a low angle, emphasizing his emotional expression against the backdrop of a bright daytime setting.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 65,
+      "prompt": "king, announcing, band formation, palace, ornate decorations, murals, daytime, golden robe, crown, smiling, guards, spear, mid-shot, eye level,A Chinese king, dressed in a magnificent golden dragon robe and wearing a sparkling crown, stands confidently with a warm smile as he announces the formation of a band. Behind him, loyal guards hold long spears, adding to the regal atmosphere. The palace interior is adorned with intricate murals and opulent decorations, creating a rich backdrop. The scene is set during the day, captured in a mid-shot from an eye-level perspective, emphasizing the king's authority and joyful expression.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 66,
+      "prompt": "Li Ming, electric scooter, busy city street, daytime, delivery uniform, neon signs, medium shot, eye level,A Chinese man named Li Ming, wearing a standard delivery uniform, rides an electric scooter through a bustling city street during the daytime. He is intently checking the order in his hands, his tired eyes visible beneath his helmet. The background features tall modern buildings and hurried pedestrians, while vibrant neon advertisement signs flicker with various promotions. The scene is captured in a medium shot at eye level, showcasing the energetic atmosphere of a busy urban center.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 67,
+      "prompt": "Lulu, kite, rainbow trail, bird, sky, afternoon, excitement, bright sunlight,A joyful Chinese girl named Lulu, with short hair and wearing a vibrant sports outfit, is focused on her colorful kite soaring high in the bright blue sky. The kite creates a beautiful rainbow trail as it dances in the afternoon breeze. A small, curious bird flutters nearby, intrigued by the kite's vibrant colors. The scene is filled with warm sunlight, enhancing the cheerful atmosphere of this perfect day outdoors.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 68,
+      "prompt": "young man, computer, late night, messy room, tired eyes, documents, casual clothing, screen light,A young Chinese man with slightly long black hair, wearing casual clothing and glasses, is intensely focused on his computer screen late at night. The soft glow from the screen casts a light on his weary face, highlighting his tired eyes. The setting is a cramped, cluttered rental room filled with piles of documents and papers scattered across the desk. The atmosphere is dimly lit, creating a sense of solitude and dedication in the late hours.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 69,
+      "prompt": "young man, Lu Xun, Shanghai street, night, old book, simple attire, determined expression, dimly lit, police sirens, wide angle, rear view,A young Chinese man embodying Lu Xun stands resolutely at a street corner in Shanghai, tightly holding a worn, old book in his hands. The scene is set on a dimly lit street at night, where only a few feeble streetlights cast a faint glow. He is dressed in a simple Zhongshan suit, his face marked by a determined expression and deep, contemplative eyes. The oppressive atmosphere is heightened by the distant wail of police sirens, creating a sense of tension. This wide-angle shot captures the young man from behind, highlighting the stark contrast between his figure and the shadowy urban landscape surrounding him.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 70,
+      "prompt": "boy, basketball court, dynamic action, shadows, low angle,A determined Japanese boy, resembling a high school student with short hair and an athletic build, catches a basketball pass and prepares to break through the defense on a vibrant basketball court. The background features the opposite side of the court, where bright sunlight creates dramatic shadows on the polished floor. His intense gaze reflects focus and determination, with his muscles taut and ready to spring into action. The stark contrast between the shadows on the ground and his energetic pose emphasizes the dynamic motion of the scene. The perspective is from a low angle, capturing the boy's powerful stance as he readies himself for the next move.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 71,
+      "prompt": "animator, satisfied, animation studio, night, city lights, computer screen, completed animation,A male animator with messy hair and glasses, dressed in casual attire, beams with pride and satisfaction as he gazes at his completed animation project displayed on the glowing computer screen. The cozy animation studio is illuminated by soft, warm light, creating a welcoming atmosphere. Outside the window, the vibrant city lights twinkle against the dark night sky, adding a sense of excitement and creativity to the scene. The animator is framed in a medium shot from a side view, capturing the essence of his achievement and the lively environment around him.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 72,
+      "prompt": "dancing, outdoor, 1980s American town, classic cars, neon signs, dusk, vibrant tracksuit, headband, breakdancing, onlookers, children mimicking, medium shot, high angle,A lively scene of a character dancing outdoors, proudly displaying their vibrant tracksuit and headband. The backdrop reveals a charming 1980s American town street, lined with classic cars parked along the roadside, and glowing neon shop signs flickering in the distance. The time is dusk, casting a warm, nostalgic glow over the scene. The character is energetically performing breakdance moves, captivating the attention of onlookers who have paused to watch. Nearby, children excitedly mimic the character's dynamic movements, adding to the joyful atmosphere. The composition is a medium shot captured from a high angle, providing a comprehensive view of this vibrant moment.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 73,
+      "prompt": "young person, skyscraper observation deck, smartphone, night view, 2024, Chinese metropolis, neon lights, skyline, smiling, fashionable, social media post,A fashionable young Chinese person with a trendy hairstyle, smiling brightly while standing on a skyscraper observation deck, holding a smartphone that displays social media posts reading 'China travel' and 'city不city.' The vibrant background features a dazzling skyline of a Chinese metropolis in 2024, illuminated by flickering neon lights. The scene is set at night, showcasing the stunning urban landscape. The viewpoint is wide-angle, capturing the essence of the bustling city life and the sparkling lights in the distance.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 74,
+      "prompt": "chef, slicing, Zhenjiang cured meat, kitchen, dinner preparation, white chef uniform, focused, slow motion, spices, close-up, eye level,A skilled Chinese chef in a crisp white uniform, intensely focused on slicing Zhenjiang cured meat with precision in a spotless, fully equipped kitchen. The scene captures the intricate details of the slow-motion slicing process, showcasing the glistening meat and the sharp knife. Neatly arranged colorful spices sit beside him, adding vibrancy to the composition. The image is framed as a close-up at eye level, emphasizing the chef's dedication and the culinary artistry involved in dinner preparation.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 75,
+      "prompt": "AI content generation, computer desktop, software interface, close-up, eye-level angle,A young adult Chinese individual, dressed in trendy attire, intently manipulating a sleek laptop. The computer screen showcases a dynamic AI software interface, with colorful text and video content rapidly generating, illustrating the powerful capabilities of AI technology. The scene is captured in a close-up, eye-level angle, emphasizing the subject's concentration and the vibrant activity on the screen. The background features a modern workspace, enhancing the contemporary feel of the image.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 76,
+      "prompt": "boy, seaside, back view, book, golden beach, shimmering sea, seagulls, sunset, solitude, tranquility,A young Chinese boy with short hair, dressed in a school uniform, stands at the edge of a golden beach, his back facing the camera as he gazes out at the vast ocean. He holds a book in his hands, his silhouette appearing strong yet solitary in the warm glow of the sunset. The sea sparkles under the fading light, while seagulls soar gracefully overhead. Gentle waves lap at the shore, creating a serene and hopeful atmosphere, captured in a close-up shot at eye level.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 77,
+      "prompt": "female protagonist, distant figure, night street, determined expression, Asian features,A slender Asian woman stands in the distance on a tranquil street illuminated by soft moonlight. She wears simple clothing, her lips tightly closed, and her eyes radiate unwavering resolve. The night envelops her figure, highlighting her solitude and strength. The scene captures a wide-angle view from above, emphasizing her distant presence against the serene backdrop of the nighttime street.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 78,
+      "prompt": "Chinese man, vintage wooden mailbox, letter, home entrance, night time, warm decor, close-up,A Chinese man, dressed in a dark casual jacket suitable for an evening outing, is slowly and tenderly placing a letter into a vintage wooden mailbox, his expression filled with anticipation. The scene is set at the entrance of a warm and inviting home, adorned with a small shoe cabinet and a few potted green plants. It is late at night, and the atmosphere is calm and intimate. The close-up shot captures the man from a slight high angle, focusing on his hand as it delicately interacts with the mailbox. Above the mailbox, a handwritten label reads \"To my dearest,\" hinting at the personal significance of the letter. Soft, dim lighting enhances the cozy ambiance of the setting.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    },
+    {
+      "num": 79,
+      "prompt": "craftsman, modern studio, afternoon, focused, tools, organized, natural light,A dedicated Chinese craftsman, dressed casually with short hair, is intensely manipulating materials with his fingers at a cluttered workbench. The modern studio is bathed in warm afternoon light streaming through the windows, highlighting the organized array of tools and materials on the workbench. The scene captures a mid-range view at eye level, showcasing the craftsman's concentration and the vibrant atmosphere of creativity in the workspace.",
+      "prompt_attr": [
+        "typemovie"
+      ],
+      "prompt_style": []
+    }
+  ]
+}

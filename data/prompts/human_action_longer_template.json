@@ -1,0 +1,604 @@
+{
+  "datas": [
+    {
+      "num": 0,
+      "prompt": "A spirited individual rides a vintage bicycle along a sunlit, tree-lined path, wearing a casual outfit of a white t-shirt, denim shorts, and sneakers. The scene captures the golden hour, with sunlight filtering through the leaves, casting dappled shadows on the ground. The rider's hair flows freely in the breeze, and a joyful smile lights up their face. As they pedal, the camera zooms in to reveal the intricate details of the bike's design, including its classic handlebars and shiny bell. The background features a serene park with blooming flowers and a distant lake, enhancing the sense of freedom and tranquility.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 1,
+      "prompt": "A resolute individual, dressed in a crisp military uniform with polished boots and a peaked cap, marches with precision across a sunlit parade ground. The rhythmic sound of their footsteps echoes in the clear morning air, accompanied by the fluttering of flags in the background. Their face, set with determination, reflects the discipline and pride of their duty. As they move, the sunlight glints off their medals, adding a touch of brilliance to their steadfast march. The scene captures the essence of honor and commitment, framed by the orderly rows of fellow soldiers standing at attention.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 2,
+      "prompt": "A vibrant individual, dressed in a colorful outfit with a red helmet, glides effortlessly on roller skates through a bustling urban park. The scene captures the energy of a sunny afternoon, with the person weaving gracefully between trees and benches. Their attire, a mix of bright neon colors, stands out against the lush greenery and the clear blue sky. As they skate, the camera zooms in to reveal a joyful smile and the wind tousling their hair. The video transitions to a close-up of their skates, showcasing smooth, rhythmic movements on the pavement, highlighting the freedom and exhilaration of the moment.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 3,
+      "prompt": "A bearded man in his thirties, wearing a plaid shirt and jeans, sits at a rustic wooden bar, surrounded by an array of beer taps and vintage brewery decor. He carefully lifts a frosty pint glass filled with amber beer, examining its color and clarity against the warm, ambient lighting. He takes a slow, appreciative sip, his eyes closing momentarily as he savors the complex flavors. The camera captures the subtle smile of satisfaction on his face, highlighting the rich foam on his upper lip. The background hum of soft chatter and clinking glasses adds to the cozy, inviting atmosphere of the pub.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 4,
+      "prompt": "A person in a vibrant red sweater stands in a warmly lit room, their face beaming with joy. They begin clapping enthusiastically, their hands moving rhythmically, creating a sense of celebration. The camera captures their expressive eyes and wide smile, highlighting their genuine happiness. As they continue clapping, the background reveals a cozy living space with soft lighting, adding to the intimate and cheerful atmosphere. The sound of their claps resonates, filling the room with a sense of accomplishment and shared joy.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 5,
+      "prompt": "A focused artist, wearing a cozy gray sweater, sits at a wooden desk in a warmly lit room, surrounded by art supplies. The camera zooms in on their hands, skillfully sketching intricate details on a large canvas with a fine-tipped pen. The scene shifts to show the artist's concentrated face, glasses perched on their nose, as they meticulously add shading to the drawing. The room's ambiance, filled with soft light from a nearby window and the gentle hum of background music, enhances the creative atmosphere. Finally, the artist steps back, revealing a stunning, detailed illustration of a serene forest landscape.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 6,
+      "prompt": "A serene individual, dressed in a cozy, oversized sweater and jeans, kneels on a lush, green meadow, gently petting a friendly golden retriever. The dog's tail wags enthusiastically, its fur gleaming in the soft sunlight. The person’s face lights up with a warm smile, their hand moving tenderly over the dog's head and back. In the background, a picturesque landscape of rolling hills and blooming wildflowers adds to the tranquil scene. The golden retriever, with its tongue lolling out and eyes full of affection, leans into the person's touch, creating a heartwarming moment of connection and joy.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 7,
+      "prompt": "A young woman with long, flowing hair sits on a rustic wooden bench in a sunlit garden, surrounded by vibrant flowers and lush greenery. She holds a large slice of juicy watermelon, its bright red flesh contrasting with the green rind. As she takes a bite, her eyes close in delight, savoring the sweet, refreshing taste. The sunlight filters through the leaves, casting dappled shadows on her face and the watermelon. She smiles, juice dripping down her chin, capturing the essence of a perfect summer day. The scene is filled with the sounds of birds chirping and leaves rustling in the gentle breeze.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 8,
+      "prompt": "A serene individual, dressed in a flowing white gown, sits gracefully in a sunlit room adorned with lush green plants and soft, billowing curtains. Their fingers delicately pluck the strings of a golden harp, producing ethereal melodies that fill the air. The camera captures close-ups of their hands, showcasing the intricate movements and the harp's ornate details. Sunlight filters through the window, casting a warm glow on their serene face, eyes closed in deep concentration. The scene transitions to a wider shot, revealing the tranquil ambiance of the room, with the gentle sway of the curtains and the soft rustle of leaves enhancing the peaceful atmosphere.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 9,
+      "prompt": "In a dimly lit wrestling ring, a muscular athlete in a red singlet and black wrestling shoes grapples with an opponent, their intense expressions reflecting the struggle. The camera captures the sweat glistening on their foreheads as they lock arms, muscles straining. The scene shifts to a close-up of the athlete's determined face, eyes focused, as they execute a powerful takedown. The crowd's muffled cheers echo in the background, adding to the tension. Finally, the athlete stands victorious, breathing heavily, with the spotlight highlighting their triumphant stance and the opponent on the mat, showcasing the raw emotion and physicality of the sport.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 10,
+      "prompt": "A young person, dressed in a vibrant red jacket and black jeans, rides a sleek electric scooter through a bustling city street. The scene captures the energy of urban life, with towering skyscrapers and colorful storefronts lining the background. The rider's helmet, adorned with reflective stripes, glints in the sunlight as they weave through the crowd. The scooter's wheels glide smoothly over the pavement, creating a sense of effortless motion. As they pass a street musician playing a lively tune, the rider's expression is one of pure joy and freedom, embodying the spirit of modern city living.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 11,
+      "prompt": "A diligent individual, dressed in a simple white t-shirt and blue jeans, sweeps the wooden floor of a cozy, sunlit room. The room is filled with warm, golden light streaming through large windows, casting gentle shadows on the floor. The person’s movements are rhythmic and purposeful, as they methodically clear away dust and debris. In the background, a comfortable armchair and a small bookshelf filled with colorful books add to the inviting atmosphere. The scene captures a moment of quiet, everyday care, with the soft sound of the broom against the floor enhancing the serene ambiance.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 12,
+      "prompt": "A young person with a vibrant red beanie and a black hoodie skillfully maneuvers a skateboard on a sunlit urban street. The camera captures their fluid movements as they perform a series of tricks, including an impressive ollie over a curb. The background features colorful graffiti on brick walls, adding an artistic flair to the scene. As they glide effortlessly, the sunlight casts dynamic shadows, highlighting their agility and control. The video concludes with a close-up of their focused expression, revealing a sense of freedom and exhilaration in the moment.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 13,
+      "prompt": "A dynamic athlete, clad in a sleek black jersey and matching shorts, soars through the air in a packed, electrifying arena. The crowd's anticipation is palpable as the player, with sweat glistening on their determined face, grips the basketball tightly. The camera captures the powerful leap, muscles tensed, and the sheer focus in their eyes. As they approach the hoop, the background blurs, emphasizing the height and grace of the jump. The ball slams through the net with a resounding swish, and the crowd erupts in a deafening roar, celebrating the spectacular dunk. The athlete lands gracefully, a triumphant smile spreading across their face, basking in the glory of the moment.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 14,
+      "prompt": "A serene individual, dressed in a flowing white shirt and dark trousers, sits cross-legged on a grassy hilltop at sunset, playing a wooden flute. The golden light bathes the scene, casting long shadows and illuminating the musician's focused expression. The camera captures close-ups of their fingers deftly moving over the flute's holes, the gentle breeze rustling their hair. As the melody flows, the surrounding wildflowers sway in harmony, and distant mountains provide a majestic backdrop. The scene transitions to a wider shot, revealing the vast, tranquil landscape, with the flute's soothing notes echoing through the serene evening air.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 15,
+      "prompt": "A focused individual in a sleek, black athletic outfit stands on a serene lakeside dock at dawn, the sky painted with soft pink and orange hues. They begin by lifting one leg onto the wooden railing, stretching deeply, their face reflecting calm determination. The camera captures the gentle ripples of the lake and the mist rising from the water, adding to the tranquil atmosphere. As they switch legs, the close-up reveals the tension and release in their muscles, emphasizing the precision of their movements. The scene concludes with a wide shot of the person standing tall, silhouetted against the rising sun, embodying a moment of peaceful strength and readiness for the day ahead.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 16,
+      "prompt": "A well-dressed individual stands in front of a mirror, wearing a crisp white dress shirt and a sleek black suit jacket. The scene begins with a close-up of their hands skillfully looping a deep navy blue silk tie around their collar. The camera captures the intricate movements as they create a perfect Windsor knot, their fingers moving with precision and confidence. The background is softly blurred, focusing attention on the tie and the person's meticulous technique. As they tighten the knot and adjust the tie to sit perfectly against their shirt, a sense of elegance and professionalism is conveyed. The final shot reveals the person straightening their suit jacket, exuding a polished and composed demeanor, ready to face the day.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 17,
+      "prompt": "A thrill-seeker in a vibrant red jumpsuit and sleek black helmet leaps from a plane, the vast expanse of the sky stretching endlessly around them. As they freefall, the camera captures their exhilarated expression, the wind rushing past, and the sun casting a golden glow on their gear. Below, a patchwork of green fields and winding rivers comes into view, growing larger as they descend. The skydiver performs a series of graceful spins and flips, showcasing their skill and joy. Finally, they deploy their parachute, the colorful canopy blossoming above them, slowing their descent as they glide smoothly towards the earth, the landscape below becoming more detailed and vivid.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 18,
+      "prompt": "A determined soccer player, clad in a red jersey, white shorts, and black cleats, stands poised on a lush green field, eyes locked on the goal. The sun casts a golden glow, highlighting the intensity of the moment. As the player takes a deep breath, the camera zooms in on their focused expression, capturing the beads of sweat on their forehead. With a swift, powerful motion, they strike the ball, sending it soaring through the air. The ball spins rapidly, cutting through the wind, as the goalkeeper dives in a desperate attempt to save it. The scene culminates with the ball hitting the back of the net, the player's triumphant roar echoing across the field, and teammates rushing in to celebrate the exhilarating goal.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 19,
+      "prompt": "A young woman with long, flowing hair sits at a grand piano in a dimly lit room, her fingers gracefully dancing across the keys. She wears a flowing white dress that contrasts beautifully with the dark wood of the piano. The camera captures her intense concentration, her eyes closed as she loses herself in the music. The soft glow of a nearby lamp casts a warm light on her face, highlighting her serene expression. The room is adorned with vintage decor, including a framed painting and a vase of fresh flowers on a side table, adding to the intimate and timeless atmosphere.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 20,
+      "prompt": "A lone adventurer, clad in a bright red life jacket and a wide-brimmed hat, paddles a sleek, yellow kayak through a serene, crystal-clear lake surrounded by towering pine trees and majestic mountains. The sun casts a golden glow on the water, creating a shimmering path ahead. As the person glides effortlessly, the rhythmic splash of the paddle and the gentle ripples in the water evoke a sense of tranquility. Occasionally, they pause to take in the breathtaking scenery, the reflection of the vibrant autumn foliage mirrored perfectly on the lake's surface. The scene captures the essence of solitude and the beauty of nature.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 21,
+      "prompt": "A young woman with curly hair and a bright smile sits in a cozy, sunlit café, wearing a yellow sweater that radiates warmth. She throws her head back in genuine laughter, her eyes sparkling with joy. The background features rustic wooden tables, potted plants, and soft, ambient lighting, creating a welcoming atmosphere. Her laughter is contagious, filling the room with a sense of happiness and light-heartedness. The camera captures her face in close-up, highlighting the crinkles around her eyes and the pure delight in her expression, making the moment feel intimate and heartwarming.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 22,
+      "prompt": "A determined individual in a sleek black tank top and gray athletic shorts performs push-ups on a pristine wooden floor in a minimalist, sunlit room. The camera captures the sweat glistening on their forehead, emphasizing their intense focus and dedication. As they lower themselves, the muscles in their arms and back ripple with effort, showcasing their strength and endurance. The room's large windows allow beams of natural light to highlight their form, casting dynamic shadows that accentuate each movement. The serene ambiance of the space contrasts with the vigorous exercise, creating a powerful visual of discipline and perseverance.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 23,
+      "prompt": "A joyful individual stands in an open, grassy field, wearing a bright yellow jacket and jeans, with a colorful kite soaring high above. The sky is a brilliant blue with scattered fluffy clouds, creating a perfect day for kite flying. The person’s face lights up with excitement as they skillfully maneuver the kite, its vibrant tail fluttering in the breeze. The camera captures close-ups of the kite dancing against the sky, then pans down to the person’s hands, gripping the string with determination. The scene transitions to a wide shot, showing the person running across the field, the kite trailing gracefully behind, embodying a sense of freedom and exhilaration.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 24,
+      "prompt": "A young woman with long, dark hair sits at a vanity, her face illuminated by soft, warm lighting. She carefully fills in her eyebrows with a precise, angled brush, her expression focused and serene. The camera captures a close-up of her hand as it moves gracefully, applying a rich, dark brown shade to her brows. Her reflection in the mirror shows her meticulous attention to detail, highlighting her natural beauty. The background is softly blurred, emphasizing the intimate moment of her beauty routine. Finally, she steps back to admire her work, a satisfied smile playing on her lips, her eyebrows perfectly shaped and defined.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 25,
+      "prompt": "A skilled individual, wearing a crisp white shirt with rolled-up sleeves, sits at a polished wooden table, shuffling a deck of playing cards with precision. The camera captures the close-up details of their hands, showcasing the fluid motion and dexterity as the cards cascade and interlace seamlessly. The background is softly lit, with a hint of a vintage lamp casting a warm glow, adding an air of sophistication. The sound of the cards being shuffled is crisp and rhythmic, enhancing the focus on the person's expertise. Finally, the person performs a flawless bridge shuffle, the cards arching gracefully before settling back into a neat stack.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 26,
+      "prompt": "A meticulous individual, dressed in a cozy gray sweater and dark jeans, stands in a warmly lit room with soft, ambient lighting. They carefully fold a variety of garments, including a vibrant red sweater, a pair of neatly pressed blue jeans, and a crisp white shirt, placing each item into a tidy stack on a wooden table. The room is adorned with potted plants and a large window that lets in natural light, creating a serene and organized atmosphere. The person's movements are deliberate and precise, reflecting a sense of calm and satisfaction in the simple task of folding clothes.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 27,
+      "prompt": "A contemplative individual, dressed in a dark, hooded jacket, stands alone on a dimly lit urban street, the soft glow of streetlights casting long shadows. They lift a cigarette to their lips, the ember glowing brightly in the night. As they exhale, a plume of smoke curls and dances in the cold air, illuminated by the faint light. The camera captures a close-up of their face, revealing a pensive expression, eyes reflecting the distant city lights. The scene transitions to a wider shot, showing the person leaning against a graffiti-covered wall, the smoke swirling around them, creating an atmosphere of solitude and introspection.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 28,
+      "prompt": "A spirited individual, dressed in a black graphic t-shirt and ripped jeans, stands in a dimly lit room with colorful LED lights casting vibrant hues. They energetically air drum, their movements precise and passionate, as if playing an invisible drum set. The camera captures close-ups of their intense facial expressions, eyes closed, fully immersed in the rhythm. Their hands move swiftly, mimicking the beats of an imaginary drum solo, with the LED lights creating dynamic shadows and highlights. The scene exudes a sense of raw energy and musical fervor, making the viewer feel the pulse of the invisible drums.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 29,
+      "prompt": "A serene individual stands under a cascading shower, water droplets glistening as they fall, creating a soothing ambiance. The steam rises, enveloping the scene in a warm, misty embrace. The person, with closed eyes and a relaxed expression, enjoys the gentle massage of the water on their skin. The bathroom, adorned with soft, ambient lighting and sleek, modern fixtures, enhances the tranquil atmosphere. The sound of water splashing and the sight of droplets clinging to the glass shower door add to the immersive experience, capturing a moment of pure relaxation and rejuvenation.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 30,
+      "prompt": "A dedicated individual, dressed in a green flannel shirt, brown cargo pants, and sturdy boots, kneels in a sunlit clearing, carefully placing a young sapling into a freshly dug hole. The scene transitions to a close-up of their hands, gently patting the soil around the base of the tree, ensuring it is secure. The camera then captures the person standing, wiping sweat from their brow, and looking around at the rows of newly planted trees, their face reflecting a sense of accomplishment. Birds chirp in the background, and the sunlight filters through the leaves, casting a warm, golden glow over the burgeoning forest.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 31,
+      "prompt": "A determined climber, clad in a red helmet, blue climbing shoes, and a harness, scales a rugged cliff face under a clear blue sky. The camera captures the climber's intense focus and muscular effort as they navigate the jagged rock formations. Chalk dust puffs from their hands, highlighting each precise grip and foothold. The sun casts dramatic shadows, emphasizing the texture of the rock and the climber's athletic form. As they ascend higher, the expansive landscape below reveals a lush valley and winding river, showcasing the breathtaking height and challenge of the climb. The climber pauses momentarily, looking up with resolve before continuing their ascent, embodying the spirit of adventure and perseverance.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 32,
+      "prompt": "A focused individual sits at a wooden desk, bathed in the warm glow of a vintage desk lamp, wearing a cozy sweater. The camera captures the close-up of their hand, gripping a fountain pen, as it glides smoothly across the parchment paper, leaving elegant, flowing script. The scene shifts to show their concentrated face, glasses perched on their nose, eyes intently following each word they write. The background reveals a bookshelf filled with leather-bound volumes and a softly ticking clock, adding to the serene, studious atmosphere. Finally, the person pauses, lifting the pen, and gazes thoughtfully at their work, a slight smile of satisfaction playing on their lips.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 33,
+      "prompt": "A thrill-seeker, clad in a bright red jumpsuit and a secure harness, leaps off a towering cliff, the vast canyon below stretching out in breathtaking detail. The camera captures the moment of freefall, the wind rushing past their exhilarated face, eyes wide with a mix of fear and excitement. As they plummet, the rugged landscape blurs, showcasing the sheer height of the jump. The bungee cord stretches taut, and the person rebounds gracefully, their body arching in a fluid motion against the backdrop of a clear blue sky and jagged rock formations. The scene concludes with a close-up of their triumphant smile, hanging upside down, savoring the adrenaline rush and the stunning natural scenery.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 34,
+      "prompt": "A determined individual, dressed in a red flannel shirt, blue jeans, and sturdy boots, pushes a weathered wooden cart along a narrow, cobblestone street. The scene is set in a quaint, old-world village with charming stone buildings and ivy-covered walls. The cart, filled with an assortment of colorful fruits and vegetables, creaks slightly as it moves. The person’s face, partially obscured by a wide-brimmed hat, shows a mix of focus and determination. As they push the cart, the early morning sun casts long shadows, adding a golden hue to the scene, while birds chirp softly in the background, enhancing the serene atmosphere.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 35,
+      "prompt": "A diligent individual in a bright yellow raincoat and blue jeans stands on a ladder, meticulously cleaning a large window of a charming, ivy-covered cottage. The scene begins with a close-up of their gloved hand, wiping away streaks with a squeegee, revealing a crystal-clear view of the lush garden outside. The camera then pans out to show the person, their face focused and determined, as they move methodically from one pane to the next. Sunlight filters through the freshly cleaned glass, casting a warm glow on their concentrated expression. Finally, they step back to admire their work, the window now spotless and gleaming, reflecting the vibrant greenery and blooming flowers of the garden.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 36,
+      "prompt": "A person with a focused expression stands at a rustic wooden table, wearing a white apron over a casual outfit. They carefully slice a large, ripe watermelon, the vibrant red flesh contrasting with the green rind. The scene captures the juicy fruit's freshness, with close-up shots of the knife gliding through the watermelon, revealing its succulent interior. The person's hands, steady and precise, handle the fruit with care, creating perfect, mouth-watering slices. The background features a sunlit kitchen with potted herbs on the windowsill, adding a homely, inviting atmosphere to the scene.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 37,
+      "prompt": "A spirited cheerleader, dressed in a vibrant red and white uniform with matching pom-poms, performs on a sunlit football field. The scene opens with a close-up of their beaming face, framed by a high ponytail adorned with a red ribbon. They execute a series of high-energy jumps and flips, their movements synchronized with the rhythmic chants of their team. The camera captures the fluid motion of their pom-poms, glinting in the sunlight. As they land a perfect split, the crowd in the background erupts in applause, their cheers blending with the cheerleader's infectious enthusiasm. The video concludes with a slow-motion shot of the cheerleader mid-air, capturing the grace and athleticism of their performance.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 38,
+      "prompt": "A person with neatly trimmed nails and a silver bracelet gently turns on a sleek, modern faucet in a pristine, white bathroom. The water cascades over their hands, creating a soothing, rhythmic sound. They apply a dollop of lavender-scented soap, lathering it into a rich foam that glistens under the soft, ambient lighting. The camera captures the intricate details of the soap bubbles, reflecting tiny rainbows. As they rinse their hands, the water flows smoothly, washing away the foam and leaving their skin looking refreshed and clean. Finally, they reach for a plush, white towel, patting their hands dry with a sense of calm and satisfaction.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 39,
+      "prompt": "A meticulous individual stands in a cozy, sunlit room, wearing a crisp white shirt and dark jeans, carefully ironing a freshly laundered blue dress shirt on a sleek, modern ironing board. The steam rises gently from the iron, creating a soft, hazy effect in the warm light. The room is adorned with potted plants and a large window that lets in natural light, casting a serene glow. The person’s focused expression and precise movements reflect their dedication to the task. As they glide the iron smoothly over the fabric, the wrinkles disappear, leaving the shirt perfectly pressed and ready to wear.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 40,
+      "prompt": "A meticulous individual sits at a wooden table, carefully trimming their nails with a sleek, silver nail clipper. The close-up shot captures the precision of each cut, highlighting the person's steady hands and focused expression. The soft lighting casts gentle shadows, emphasizing the clean, well-maintained nails. As the person continues, the sound of the clipper snapping echoes softly, creating a rhythmic pattern. The scene transitions to a moment where the person gently files the edges, ensuring smoothness and perfection. Finally, the video concludes with a shot of the neatly trimmed nails, showcasing the care and attention given to this simple yet essential grooming task.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 41,
+      "prompt": "A person with short, curly hair and wearing a cozy, oversized sweater stands in a warmly lit room, their eyes closed in a moment of deep connection. They embrace another individual, whose face is partially visible, showing a gentle smile. The background features soft, ambient lighting and hints of a comfortable living space with a plush sofa and a bookshelf filled with books and plants. The hug is tender and heartfelt, capturing a sense of warmth and intimacy. The scene transitions to a close-up of their hands clasped tightly, emphasizing the bond and emotional depth of the embrace.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 42,
+      "prompt": "A man with a thick, dark beard stands in a modern, well-lit bathroom, holding an electric trimmer. He carefully trims his beard, focusing intently on achieving a precise, even cut. The camera captures close-up shots of the trimmer gliding through his beard, revealing the transformation from a rugged look to a neatly groomed appearance. His expression is one of concentration and satisfaction as he checks his progress in the mirror. The scene transitions to him rinsing his face with water, patting it dry with a soft towel, and finally smiling at his reflection, admiring his freshly groomed beard.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 43,
+      "prompt": "A determined individual in a sleek, black athletic outfit jogs along a winding forest trail, surrounded by towering trees and dappled sunlight filtering through the leaves. Their rhythmic strides create a sense of purpose and focus, with the soft crunch of leaves underfoot adding to the serene ambiance. As they run, the camera captures close-ups of their focused expression, beads of sweat forming on their brow, and the gentle sway of their ponytail. The scene transitions to a wider shot, revealing the lush greenery and the tranquil beauty of the forest, emphasizing the harmony between the jogger and nature.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 44,
+      "prompt": "A meticulous individual, dressed in a cozy gray sweater and black pants, stands in a softly lit bedroom with pastel-colored walls. They begin by smoothing out the crisp white sheets, ensuring every corner is perfectly aligned. Next, they fluff up a set of plush pillows, arranging them neatly at the head of the bed. The person then drapes a luxurious, quilted comforter over the bed, its rich navy blue color contrasting beautifully with the white sheets. Finally, they add a touch of elegance by placing a decorative throw blanket at the foot of the bed, completing the serene and inviting atmosphere of the room.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 45,
+      "prompt": "A person stands at a kitchen sink, wearing a cozy, oversized sweater and rubber gloves, surrounded by a warm, inviting kitchen. Sunlight streams through a nearby window, casting a golden glow on the scene. The person carefully scrubs a plate, their movements methodical and soothing. The camera captures the gentle swirls of soap bubbles and the clinking of dishes. Nearby, a vase of fresh flowers adds a touch of color and life to the countertop. The person pauses to look out the window, taking a moment to enjoy the peaceful view of a blooming garden before returning to their task with a contented smile.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 46,
+      "prompt": "A gentle person, wearing a cozy green sweater and jeans, kneels beside a fluffy golden retriever in a sunlit garden. The person carefully brushes the dog's fur, their movements slow and soothing, while the dog sits calmly, eyes half-closed in contentment. The scene shifts to a close-up of the person's hands, delicately trimming the dog's nails with precision. Next, the person uses a soft cloth to clean the dog's ears, the golden retriever's tail wagging slightly. Finally, the person rewards the dog with a treat, both smiling, the bond between them evident in the serene, sun-dappled setting.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 47,
+      "prompt": "A young woman with long, dark hair, wearing a cozy gray sweater and jeans, stands in a bright, modern laundry room. She carefully sorts clothes into piles, the sunlight streaming through a nearby window casting a warm glow. Next, she loads a front-loading washing machine with colorful garments, her movements deliberate and efficient. As the machine starts, she leans against the counter, sipping a cup of tea, her expression relaxed and content. Finally, she transfers the freshly washed clothes to a dryer, the room filled with the soft hum of the machines, creating a serene and productive atmosphere.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 48,
+      "prompt": "A determined individual in a sleek, black athletic outfit jogs along a winding forest trail, surrounded by towering trees and dappled sunlight filtering through the leaves. Their rhythmic strides create a sense of purpose and focus, with the soft crunch of leaves underfoot adding to the serene ambiance. As they run, the camera captures close-ups of their focused expression, beads of sweat forming on their brow, and the gentle sway of their ponytail. The scene transitions to a wider shot, revealing the lush greenery and the tranquil beauty of the forest, emphasizing the harmony between the jogger and nature.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 49,
+      "prompt": "A meticulous individual, dressed in a cozy gray sweater and black pants, stands in a softly lit bedroom with pastel-colored walls. They begin by smoothing out the crisp white sheets, ensuring every corner is perfectly aligned. Next, they fluff up a set of plush pillows, arranging them neatly at the head of the bed. The person then drapes a luxurious, quilted comforter over the bed, its rich navy blue color contrasting beautifully with the white sheets. Finally, they add a touch of elegance by placing a decorative throw blanket at the foot of the bed, completing the serene and inviting atmosphere of the room.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 50,
+      "prompt": "A person stands at a kitchen sink, wearing a cozy, oversized sweater and rubber gloves, surrounded by a warm, inviting kitchen. Sunlight streams through a nearby window, casting a golden glow on the scene. The person carefully scrubs a plate, their movements methodical and soothing. The camera captures the gentle swirls of soap bubbles and the clinking of dishes. Nearby, a vase of fresh flowers adds a touch of color and life to the countertop. The person pauses to look out the window, taking a moment to enjoy the peaceful view of a blooming garden before returning to their task with a contented smile.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 51,
+      "prompt": "A gentle person, wearing a cozy green sweater and jeans, kneels beside a fluffy golden retriever in a sunlit garden. The person carefully brushes the dog's fur, their movements slow and soothing, while the dog sits calmly, eyes half-closed in contentment. The scene shifts to a close-up of the person's hands, delicately trimming the dog's nails with precision. Next, the person uses a soft cloth to clean the dog's ears, the golden retriever's tail wagging slightly. Finally, the person rewards the dog with a treat, both smiling, the bond between them evident in the serene, sun-dappled setting.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 52,
+      "prompt": "A young woman with long, dark hair, wearing a cozy gray sweater and jeans, stands in a bright, modern laundry room. She carefully sorts clothes into piles, the sunlight streaming through a nearby window casting a warm glow. Next, she loads a front-loading washing machine with colorful garments, her movements deliberate and efficient. As the machine starts, she leans against the counter, sipping a cup of tea, her expression relaxed and content. Finally, she transfers the freshly washed clothes to a dryer, the room filled with the soft hum of the machines, creating a serene and productive atmosphere.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 53,
+      "prompt": "A playful individual with short, curly hair and a mischievous glint in their eyes stands against a vibrant, graffiti-covered wall. They wear a casual outfit consisting of a red flannel shirt over a white tee and distressed jeans. In a close-up shot, they stick their tongue out cheekily, their expression full of lightheartedness and fun. The camera captures the moment in high definition, highlighting the texture of their skin and the sparkle in their eyes. The colorful background adds an energetic vibe, making the scene feel lively and spontaneous.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 54,
+      "prompt": "A focused archer stands in a lush, green forest clearing, wearing a dark green tunic, brown leather bracers, and sturdy boots. The person, with a determined expression, draws back a finely crafted wooden bow, the string taut and ready to release. Sunlight filters through the dense canopy, casting dappled shadows on the forest floor. The archer's stance is steady, their eyes locked on a distant target. As the arrow is released, it soars gracefully through the air, cutting through the serene silence of the forest. The scene captures the essence of precision, skill, and the timeless art of archery.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 55,
+      "prompt": "A serene individual, dressed in a flowing white blouse and light blue jeans, stands at a rustic wooden table in a sunlit room filled with greenery. They carefully select vibrant blooms from a wicker basket, including roses, lilies, and daisies, and begin arranging them in a crystal vase. The sunlight filters through the window, casting a warm glow on their focused expression. As they work, their hands move gracefully, adjusting stems and leaves to create a harmonious bouquet. The scene transitions to a close-up of their hands tying a delicate ribbon around the vase, completing the arrangement with a touch of elegance. The final shot captures the person stepping back to admire their creation, a satisfied smile on their face, with the room's natural beauty enhancing the tranquil atmosphere.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 56,
+      "prompt": "A skilled artisan, wearing protective gloves and a welding mask, stands in a dimly lit workshop filled with tools and metal scraps. The person carefully heats a metal rod with a blowtorch, the orange flames casting a warm glow on their focused face. As the metal becomes pliable, they use a sturdy vise and a hammer to bend it into a precise curve, sparks flying with each strike. The workshop's ambient sounds of clinking metal and the hiss of the torch add to the atmosphere. Finally, the artisan inspects the newly shaped metal piece, their eyes reflecting satisfaction and pride in their craftsmanship.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 57,
+      "prompt": "A graceful ballerina, dressed in a flowing white tutu and delicate pink pointe shoes, performs on a grand stage illuminated by soft, golden spotlights. Her movements are fluid and precise, each pirouette and arabesque executed with elegance and poise. The backdrop is a majestic theater with ornate, gilded decorations and plush red curtains. As she leaps into the air, her expression is one of serene concentration, capturing the audience's attention. The camera captures close-ups of her delicate footwork and the subtle emotions on her face, highlighting the beauty and discipline of ballet.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 58,
+      "prompt": "A meticulous individual, dressed in a crisp white shirt and black apron, kneels on a polished wooden floor, carefully shining a pair of elegant black leather shoes. The scene begins with a close-up of their hands, skillfully applying a rich, creamy polish with a soft cloth. The camera then pans out to reveal the person's focused expression, their brow furrowed in concentration. The shoes, now gleaming under the warm light, reflect the surrounding room's cozy ambiance. Finally, the person buffs the shoes to a high shine, their movements precise and deliberate, capturing the essence of dedication and craftsmanship.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    },
+    {
+      "num": 59,
+      "prompt": "A lone sailor, clad in a weathered navy jacket and beige cargo pants, expertly navigates a small sailboat across a vast, shimmering lake. The sun casts a golden glow on the water, creating a serene and picturesque scene. The sailor's hands grip the wooden tiller with confidence, their eyes focused on the horizon. The boat's white sails billow gracefully in the gentle breeze, reflecting the soft hues of the setting sun. As the boat glides smoothly over the water, the surrounding landscape of lush, green hills and distant mountains adds to the tranquil ambiance, capturing the essence of freedom and adventure.",
+      "prompt_attr": [
+        "long"
+      ],
+      "prompt_style": [
+        "human_action_longer"
+      ]
+    }
+  ]
+}

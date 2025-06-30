@@ -1,0 +1,52 @@
+Category Prompt
+Clothing&
+Accessory
+a <class word> wearing a red hat
+a <class word> wearing a santa hat
+a <class word> wearing a rainbow scarf
+a <class word> wearing a black top hat and a monocle
+a <class word> in a chef outfit
+a <class word> in a firefighter outfit
+a <class word> in a police outfit
+a <class word> wearing pink glasses
+a <class word> wearing a yellow shirt
+a <class word> in a purple wizard outfit
+Background
+a <class word> in the jungle
+a <class word> in the snow
+a <class word> on the beach
+a <class word> on a cobblestone street
+a <class word> on top of pink fabric
+a <class word> on top of a wooden floor
+a <class word> with a city in the background
+a <class word> with a mountain in the background
+a <class word> with a blue house in the background
+a <class word> on top of a purple rug in a forest
+Action
+a <class word> holding a glass of wine
+a <class word> riding a horse
+a <class word> holding a piece of cake
+a <class word> giving a lecture
+a <class word> reading a book
+a <class word> gardening in the backyard
+a <class word> cooking a meal
+a <class word> working out at the gym
+a <class word> walking the dog
+a <class word> baking cookies
+a <class word> wearing a doctoral cap
+a <class word> wearing a spacesuit
+a <class word> wearing sunglasses and necklace
+a <class word> coding in front of a computer
+a <class word> in a helmet and vest riding a motorcycle
+Style
+a painting of a <class word> in the style of Banksy
+a painting of a <class word> in the style of Vincent Van
+Gogh
+a colorful graffiti painting of a <class word>
+a watercolor painting of a <class word>
+a Greek marble sculpture of a <class word>
+a street art mural of a <class word>
+a black and white photograph of a <class word>
+a pointillism painting of a <class word>
+a Japanese woodblock print of a <class word>
+a street art stencil of a <class word>
