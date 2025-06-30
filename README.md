@@ -68,10 +68,7 @@ save_results: "/path/to/results"
 3. Run evaluation:
 
 ```python
-from ibench.metrics.mllm.gpt import GPT
-
-evaluator = GPT(model="gpt-4v", user_prompt="")
-score = evaluator.evaluate(data)
+python IbenchMain.py
 ```
 
 ## Additional Features
