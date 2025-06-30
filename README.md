@@ -1,6 +1,3 @@
-Here's a revised `README.md` for the IBench project:
-
-
 # IBench: Image Generation Evaluation Framework
 
 IBench is a comprehensive framework for evaluating image generation quality and image-text alignment. It provides multiple metrics across different evaluation dimensions.
@@ -90,6 +87,3 @@ score = evaluator.evaluate(data)
 - Python 3.7+
 - OpenAI API key for GPT-4V evaluation.
 - Pre-trained models (CLIP, DINOv2, etc.).
-```
-
-This README provides an overview of the key features and functionality of IBench. Let me know if you need further modifications.
